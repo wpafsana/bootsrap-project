@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link{
+    color: black! important;
+    font-weight: 400;
+    font-size:16px ;
+    text-transform: capitalize;
+
+}
+.nav-item a:hover{
+    color: rgb(118, 231, 118)!important;
+}
+.nav-logo{
+    width: 140px;
+}
+
+
+.hero-section{
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/05/20/02/coding-924920_1280.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment:fixed;
+   height: 500px; 
+
+  
+}
+.hero-title{
+    margin-top: 150px;
+}
+
+.card h3{
+    color:#7C7C7C; 
+}
+/* play */
+.play-icon{
+    width: 50px;
+    align-self: center;
+    padding-bottom: 20px;
+}
+/* enroll */
+.btn{
+    align-self: center;
+    text-transform: uppercase;
+    text-align: center;
+    width: 10%;
+  
+}
+
+/* other */
+.card{
+    border: none!important;
+    
+}
+.card img{
+  
+    align-self: center;
+  
+}
+.card p{
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: 400;
+    align-self: center;
+}
+.laravel{
+    width: 47px;
+}
+.Android{
+    width: 47px;
+}
+.dart{
+    width: 70px;
+}
+.java{
+    width: 125px;
+}
+.react{
+    width: 74px;
+}
+.react1{
+    width: 50px;
+}
+.larave2{
+    width: 65px;
+}
+.js{
+    width: 67px;
+}
+.ai{
+    width: 62px;
+}
+.ecomaerce{
+    width: 62px;
+}
+.js1{
+    width: 62px;
+}
+/* contact */
+h6{
+    color:#7C7C7C;
+    font-size: 20px;
+    padding-bottom:10px;
+}
+ .des-text {
+    color: #3f4042!important;
+    font-family: Roboto,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    display: inline;
+   text-transform: capitalize;
+ }
+ .face a{
+    color: black! important;
+ }
+ .Youtube a{
+    color: black! important;
+ }
+ .about a{
+    color: black! important;
+ }
+ .legal a{
+ color: black! important;
+ }
